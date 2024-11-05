@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Biswajeet Kumar Sahoo</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Software Engineer from India 💻</h3>
 
 
 
@@ -20,7 +20,7 @@
 <a href="https://www.hackerrank.com/@biswajeetk485" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@biswajeetk485" height="30" width="40" /></a>
 </p>
 
-<h1 align="left">Languages and Tools:</h1>
+<h1 align="left">🔍Languages and Tools:</h1>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
   <img src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" alt="c" width="80" height="80"/> 
@@ -67,9 +67,14 @@
 
 </p>
 
+<h1 align="left">🏆GitHub Trophies :</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=biswajeetkumar804&label=Profile%20views&color=0e75b6&style=flat" alt="biswajeetkumar804" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biswajeetkumar804" alt="biswajeetkumar804" /></a> </p>
 
 
 
+<h1 align="left">📊GitHub Stats :</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biswajeetkumar804&show_icons=true&locale=en&layout=compact" alt="biswajeetkumar804" /></p>
 
